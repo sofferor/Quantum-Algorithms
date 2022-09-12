@@ -4,6 +4,7 @@
 #### Explanation for the algorithm, and why it's actually working:
 
 ![Deutsch-Jozsa Algorithm](/images/deutch_algorithm-1.jpg?raw=true)
+
 ![Deutsch-Jozsa Algorithm](/images/deutch_algorithm-2.jpg?raw=true)
 
 
