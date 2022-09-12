@@ -3,6 +3,7 @@
 #### Example with the vector b='110' (thus n=3) as the period of the function.
 
 The circuit looks like:
+
 ![Circuit](/images/circuit.png?raw=true)
 
 The measurements of 1024 shots are:
