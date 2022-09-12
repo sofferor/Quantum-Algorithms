@@ -4,7 +4,7 @@
 
 The circuit looks like:
 
-![Circuit](/images/circuit.png?raw=true)
+![circuit](/images/circuit.png?raw=true)
 
 The measurements of 1024 shots are:
 ![Measurements](/images/measurements.png?raw=true)
