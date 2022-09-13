@@ -1,6 +1,6 @@
 # Simon Algorithm
 
-#### Example with the vector b='110' (thus n=3) as the period of the function.
+### Example with the vector b='110' (thus n=3) as the period of the function.
 
 The circuit looks like:
 
